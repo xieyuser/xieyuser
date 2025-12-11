@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 <table><tr><td align="center" width="52%">
   
-[![ckwu's github stats](https://github-readme-stats.vercel.app/api?username=xieyuser&show_icons=true&count_private=true)](https://github.com/xieyuser/)
+[![xieys's github stats](https://github-readme-stats-dvj5gwbvy-xieyusers-projects.vercel.app/api?username=xieyuser&show_icons=true&count_private=true)](https://github.com/xieyuser/)
   
 </td><td align="center" width="48%">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xieyuser&layout=compact&show_icons=true)](https://github.com/xieyuser/github-readme-stats)
+[![Top Langs](https://github-readme-stats-dvj5gwbvy-xieyusers-projects.vercel.app/api/top-langs/?username=xieyuser&layout=compact&show_icons=true)](https://github.com/xieyuser/github-readme-stats)
   
 </td></tr></table>
 
